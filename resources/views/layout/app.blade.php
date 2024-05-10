@@ -14,7 +14,7 @@
 
 <body>
     <!-- <div class="min-h-[100vh] max-h-[100vh] w-full flex justify-center items-center border"> -->
-    <div class="header-banner flex justify-center items-center min-h-[100vh] h-auto w-full bg-yellow-50">
+    <div class="header-banner flex justify-center pt-2 min-h-[100vh] h-auto w-full bg-yellow-50">
         @yield('contents')
     </div>
     <!-- </div> -->
